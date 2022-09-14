@@ -1,3 +1,5 @@
+// Copyright 2022 Marshall DeMars
+
 #include <iostream>
 
 int main() {
